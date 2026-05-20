@@ -1,0 +1,16 @@
+
+head{
+	align-content: centre;
+}
+body{ 
+text-align:center; }
+p{ color: white;
+font-size: 40PX}
+
+ 
+BODY{
+	background-image: url('MAINBACK.jpg');
+	background-size: cover;
+	justify-content: center;
+margin-top: 200Px;}
+

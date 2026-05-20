@@ -1,0 +1,29 @@
+
+
+body{ 
+text-align:center; }
+P{ 
+color: RED;
+font-size: 30PX;
+}
+
+
+ 
+BODY{
+	background-image: url('INDEXBACK.jpg');
+	background-size: cover;
+	justify-content: center;
+
+margin-top: 200px;}
+
+button{
+	padding: 10px;
+	margin-bottom: 20px;
+	border: none;
+	birder border-radius: 20px;
+	background color: ;
+	font font-weight: bold;
+	cursor: pointer;}
+{button:disabled 
+	background-color: black;
+}
